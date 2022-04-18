@@ -2,6 +2,10 @@
 
 > The form labels have wave effect on input.
 
+## Live Demo
+
+[Live Demo Link](https://jyoti-rai-form-wave-animation.netlify.app/)
+
 ![screenshot](./form-wave-effect.png)
 
 ## Built With
